@@ -1,0 +1,11 @@
+
+*.prefs
+*.map
+*.out
+*.opt
+*.xml
+*.obj
+*.obj
+*.d
+*.mk
+Debug/makefile
