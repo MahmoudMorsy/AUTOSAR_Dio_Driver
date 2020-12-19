@@ -11,6 +11,12 @@
 /******************************************************************************
  *                             Included Libraries                             *
  *****************************************************************************/
+/* Standard AUTOSAR types */
+#include "Std_Types.h"
+/* Dio Module types */
+#include "Dio_Types.h"
+/* Dio Pre-Compile Configuration Header file */
+#include "Dio_Cfg.h"
 
 /******************************************************************************
  *                             AUTOSAR Module Info                            *
